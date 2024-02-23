@@ -96,7 +96,7 @@ const Skills = ({ darkMode }) => {
               { <SkillBox
                 className=""
                 logo={
-                  <TbBrandCpp className=" text-white bg-black rounded-full h-fit border-white overflow-hidden" />
+                  <TbBrandCpp />
                 }
                 black={"black"}
                 white={"white"}
