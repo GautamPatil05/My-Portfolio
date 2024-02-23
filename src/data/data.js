@@ -7,7 +7,7 @@ export const data = [
     title: "Inventory Management System",
     desc: '',
     link: "", // live
-    git: "", // git link
+    git: "https://github.com/GautamPatil05/My-Portfolio.git", // git link
   },
   {
     id: 2,
