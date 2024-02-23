@@ -13,8 +13,8 @@ export const data = [
     id: 2,
     img: 'https://i.postimg.cc/xTwsC2TH/newone.jpg',
     title: "Portfolio Site",
-    link: "",
-    git: "",
+    link: "https://my-portfolio-ochre-omega.vercel.app/",
+    git: "https://github.com/GautamPatil05/My-Portfolio.git",
   },
   // {
   //   id: 3,
