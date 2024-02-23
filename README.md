@@ -1,3 +1,3 @@
 # Portfolio
 
-LINK: https://sandip-portfoliojs.netlify.app/
+LINK: https://vercel.com/gautampatil05/my-portfolio
