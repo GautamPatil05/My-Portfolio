@@ -100,7 +100,7 @@ const Skills = ({ darkMode }) => {
                 }
                 black={"black"}
                 white={"white"}
-                skill={"Next js"}
+                skill={"C++"}
               /> }
             </div>
           </div>
