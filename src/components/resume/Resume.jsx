@@ -141,6 +141,34 @@ const Resume = () => {
                 Achieved 2nd rank in the 2nd year and 3rd rank in the 3rd year, demonstrating consistent academic excellence and a competitive edge among peers.
                 </p>
               </div>
+              <div className=" flex flex-col gap-1 border-2 border-yellow-400 shadow-[0px_0px_16px_1px_rgba(0,0,0,0.1)] p-3 rounded-lg">
+                <h1 className="text-[1.4rem] font-semibold sm:text-xl">
+                  HSC
+                </h1>
+                <span className=" text-[.9rem] font-semibold text-gray-500 sm:text-base">
+                Dr. P R Ghogare College, Shirpur
+                </span>
+                <span className=" text-[.9rem] font-semibold text-yellow-500 sm:text-base">
+                  February 2017
+                </span>
+                <p className=" text-[.9rem] text-justify text-gray-500">
+                Scored 71.85%, demonstrating strong proficiency in science subjects and a commitment to academic excellence.
+                </p>
+              </div>
+              <div className=" flex flex-col gap-1 border-2 border-yellow-400 shadow-[0px_0px_16px_1px_rgba(0,0,0,0.1)] p-3 rounded-lg">
+                <h1 className="text-[1.4rem] font-semibold sm:text-xl">
+                  SSC
+                </h1>
+                <span className=" text-[.9rem] font-semibold text-gray-500 sm:text-base">
+                P B Mali Municipal High School, Shirpur
+                </span>
+                <span className=" text-[.9rem] font-semibold text-yellow-500 sm:text-base">
+                  March 2015
+                </span>
+                <p className=" text-[.9rem] text-justify text-gray-500">
+                Achieved 80.20%, indicating a solid foundation in secondary education with a focus on comprehensive learning.
+                </p>
+              </div>
             </div>
           </fieldset>
         </div>
