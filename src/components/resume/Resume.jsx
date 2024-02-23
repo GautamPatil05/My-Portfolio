@@ -27,29 +27,69 @@ const Resume = () => {
             </legend>
             <div className=" relative">
               {/* design */}
+              <div className=" flex flex-col gap-1 sm:gap-1 border-2 border-yellow-400 shadow-[0px_0px_16px_1px_rgba(0,0,0,0.1)] p-3 rounded-lg">
+                <h1 className="text-[1.4rem] font-semibold sm:text-xl">
+                Web Application Development Internship
+                </h1>
+                <span className=" text-[.9rem] font-semibold text-gray-500 sm:text-base">
+                R3sys System India Private Limited
+                </span>
+                <span className=" text-[.9rem] font-semibold text-yellow-500 sm:text-base">
+                July 2023
+                </span>
+                <p className=" text-[.9rem] text-justify break-words text-gray-500">
+                In July 2023, I completed an internship at R3sys System India Private Limited, focusing on Web Application Development. I gained hands-on experience with Java, Servlets, JSP, MySQL, and front-end technologies like HTML, CSS, JavaScript, and Bootstrap. Throughout this internship, I learned to develop and integrate dynamic web applications, emphasizing user experience and data management.
+                </p>
+              </div>
               <div className="design flex absolute left-[-150px] top-1/2 items-center rotate-[90deg] sm:left-[-160px] ">
                 <div className="c1 w-[12px] h-[12px] rounded-full bg-white border-2 border-yellow-500"></div>
                 <div className="line w-[230px] bg-gray-300 h-[2px] sm:w-[250px]"></div>
                 <div className="c2 w-[12px] h-[12px] rounded-full bg-white border-2 border-yellow-500"></div>
               </div>
-              {/* design */}
               <div className=" flex flex-col gap-1 sm:gap-1 border-2 border-yellow-400 shadow-[0px_0px_16px_1px_rgba(0,0,0,0.1)] p-3 rounded-lg">
                 <h1 className="text-[1.4rem] font-semibold sm:text-xl">
-                  Software Developer
+                Java Development Internship
                 </h1>
                 <span className=" text-[.9rem] font-semibold text-gray-500 sm:text-base">
-                  Company Name
+                Oasis Infobyte
                 </span>
                 <span className=" text-[.9rem] font-semibold text-yellow-500 sm:text-base">
-                  June 2023 - Present
+                April 2023
                 </span>
                 <p className=" text-[.9rem] text-justify break-words text-gray-500">
-                  Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                  Excepturi nihil aut quae obcaecati alias placeat totam aperiam
-                  pariatur quam? Accusantium minima aperiam error obcaecati
-                  autem doloribus deserunt qui, laborum incidunt amet, numquam
-                  eos cum tempora. Debitis, esse quae corporis deserunt officia
-                  quos in a, quaerat vero odio vitae.
+                Throughout my Java Development Internship at Oasis Infobyte in April 2023, I focused on honing my Java programming skills, culminating in the development of two key projects: a Number Guessing Game and a Bank Management System. These initiatives not only demonstrated my growing expertise in Java application development but also underscored my ability to creatively solve problems and implement robust software solutions.
+                </p>
+              </div>
+              <div className=" flex flex-col gap-1 sm:gap-1 border-2 border-yellow-400 shadow-[0px_0px_16px_1px_rgba(0,0,0,0.1)] p-3 rounded-lg">
+                <h1 className="text-[1.4rem] font-semibold sm:text-xl">
+                  Team Leader
+                </h1>
+                <span className=" text-[.9rem] font-semibold text-gray-500 sm:text-base">
+                Mahindra & Mahindra Ltd, Chakan, Pune
+                </span>
+                <span className=" text-[.9rem] font-semibold text-yellow-500 sm:text-base">
+                February 2022 - July 2022
+                </span>
+                <p className=" text-[.9rem] text-justify break-words text-gray-500">
+                Managed paint shop operations and led a team of 60, focusing on system cleanliness and operational efficiency.
+                Partnered with the Industrial Development team to enhance process efficiencies, reducing scrap and optimizing resource use.
+                Enhanced team productivity through effective leadership, problem-solving, and data-driven decision-making.
+                </p>
+              </div>
+              <div className=" flex flex-col gap-1 sm:gap-1 border-2 border-yellow-400 shadow-[0px_0px_16px_1px_rgba(0,0,0,0.1)] p-3 rounded-lg">
+                <h1 className="text-[1.4rem] font-semibold sm:text-xl">
+                  Diploma Trainee Engineer
+                </h1>
+                <span className=" text-[.9rem] font-semibold text-gray-500 sm:text-base">
+                Tata Motors Ltd, Pimpri-Chinchwad, Pune
+                </span>
+                <span className=" text-[.9rem] font-semibold text-yellow-500 sm:text-base">
+                Dec 2020 - Dec 2021
+                </span>
+                <p className=" text-[.9rem] text-justify break-words text-gray-500">
+                Inspected engine components for spec compliance, utilizing technical drawings and durability tests.
+                Analyzed precision instrument readings to uphold high accuracy standards.
+                Honed skills in Quality Inspection, Precision Measurement, and Safety Compliance.
                 </p>
               </div>
             </div>
@@ -79,15 +119,26 @@ const Resume = () => {
                   R C Patel Institute of Technology, Shirpur
                 </span>
                 <span className=" text-[.9rem] font-semibold text-yellow-500 sm:text-base">
-                  Year 2022 - Year 2025
+                  2022 - Expected 2025
                 </span>
                 <p className=" text-[.9rem] text-justify text-gray-500">
-                Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                  Excepturi nihil aut quae obcaecati alias placeat totam aperiam
-                  pariatur quam? Accusantium minima aperiam error obcaecati
-                  autem doloribus deserunt qui, laborum incidunt amet, numquam
-                  eos cum tempora. Debitis, esse quae corporis deserunt officia
-                  quos in a, quaerat vero odio vitae.
+                Currently in 3rd year, maintaining a commendable 7.88 CGPA up to the 5th semester, signifying my dedication to a robust academic foundation.
+                Actively contributing as a core member of the Akatsuki Coding Club, where I play a vital role in competitive programming and collaborative projects, enriching my coding skills and teamwork abilities.
+                </p>
+              </div>
+              <div className=" flex flex-col gap-1 border-2 border-yellow-400 shadow-[0px_0px_16px_1px_rgba(0,0,0,0.1)] p-3 rounded-lg">
+                <h1 className="text-[1.4rem] font-semibold sm:text-xl">
+                  Diploma, Electrical Engineering
+                </h1>
+                <span className=" text-[.9rem] font-semibold text-gray-500 sm:text-base">
+                  R C Patel Polytechnic, Shirpur
+                </span>
+                <span className=" text-[.9rem] font-semibold text-yellow-500 sm:text-base">
+                  2018 - 2020
+                </span>
+                <p className=" text-[.9rem] text-justify text-gray-500">
+                Graduated with an impressive 90.61%, showcasing a strong grasp of Electrical Engineering fundamentals.
+                Achieved 2nd rank in the 2nd year and 3rd rank in the 3rd year, demonstrating consistent academic excellence and a competitive edge among peers.
                 </p>
               </div>
             </div>
