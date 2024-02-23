@@ -95,7 +95,7 @@ const Resume = () => {
             </div>
           </fieldset>
         </div>
-        <div className="right flex-1 flex items-center justify-center">
+        <div className="right flex-1 flex justify-center">
           <fieldset
             data-aos="zoom-in"
             className=" w-[80%] p-5 py-12 sm:py-8 sm:w-full sm:p-2"
