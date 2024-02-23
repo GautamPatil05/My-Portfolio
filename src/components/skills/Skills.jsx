@@ -43,14 +43,14 @@ const Skills = ({ darkMode }) => {
             {/* left box */}
             <div
               data-aos="zoom-in"
-              className="progress flex items-center h-[100%] justify-end md:justify-center"
-            >
+              className="progress flex items-center h-[100%] justify-end md:justify-center" >
+
               <div className=" flex flex-col gap-6  w-3/4  my-5 md:w-[90%]">
                 <ProgressBar logo={<IoLogoHtml5 />} name={"HTML"} value={95} />
-                <ProgressBar logo={<IoLogoCss3 />} name={"CSS"} value={60} />
-                <ProgressBar logo={<SiJavascript />} name={"Javascript"} value={20} />
-                <ProgressBar logo={<FaReact />} name={"React Js"} value={20} />
-                <ProgressBar logo={<SiTailwindcss />} name={"Tailwind CSS"} value={20} />
+                <ProgressBar logo={<IoLogoCss3 />} name={"CSS"} value={80} />
+                <ProgressBar logo={<SiJavascript />} name={"Javascript"} value={75} />
+                <ProgressBar logo={<FaReact />} name={"React Js"} value={70} />
+                <ProgressBar logo={<SiTailwindcss />} name={"Tailwind CSS"} value={65} />
                 <ProgressBar logo={<SiBootstrap />} name={"Bootstrap CSS"} value={80} />
               </div>
             </div>
