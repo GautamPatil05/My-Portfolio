@@ -1,3 +1,3 @@
 # Portfolio
 
-LINK: https://vercel.com/gautampatil05/my-portfolio
+LINK: https://my-portfolio-ochre-omega.vercel.app/
