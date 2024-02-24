@@ -20,6 +20,7 @@ import { SiMysql } from "react-icons/si";
 import { SiBootstrap } from "react-icons/si";
 import { SiPython } from "react-icons/si";
 import { SiFirebase } from "react-icons/si";
+import { SiCplusplus } from "react-icons/si";
 
 const Skills = ({ darkMode }) => {
   return (
@@ -53,6 +54,7 @@ const Skills = ({ darkMode }) => {
                 <ProgressBar logo={<FaReact />} name={"React Js"} value={70} />
                 <ProgressBar logo={<SiTailwindcss />} name={"Tailwind CSS"} value={65} />
                 <ProgressBar logo={<SiBootstrap />} name={"Bootstrap CSS"} value={80} />
+                <ProgressBar logo={<SiCplusplus />} name={"C++"} value={75} />
               </div>
             </div>
           </div>
