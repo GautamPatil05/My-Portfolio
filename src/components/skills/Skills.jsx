@@ -19,6 +19,7 @@ import { DiJava } from "react-icons/di";
 import { SiMysql } from "react-icons/si";
 import { SiBootstrap } from "react-icons/si";
 import { SiPython } from "react-icons/si";
+import { SiFirebase } from "react-icons/si";
 
 const Skills = ({ darkMode }) => {
   return (
@@ -93,12 +94,10 @@ const Skills = ({ darkMode }) => {
               />
               { <SkillBox
                 className=""
-                logo={
-                  <SiNextdotjs className=" text-white bg-black rounded-full h-fit border-white overflow-hidden" />
-                }
+                logo={<SiFirebase/> }
                 black={"black"}
                 white={"white"}
-                skill={"Next js"}
+                skill={"Firebase"}
               /> }
             </div>
           </div>
