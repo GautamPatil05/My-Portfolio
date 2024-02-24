@@ -115,7 +115,7 @@ const Hero = () => {
               // src={hero photo}
               alt="mine"
             />
-            {/* <div className=" absolute bottom-10 md:bottom-3 right-8 md:right-2">
+            <div className=" absolute bottom-10 md:bottom-3 right-8 md:right-2">
               <div data-aos="zoom-in" data-aos-duration="1000"  className=" relative cursor-pointer">
                 <img
                   className=" w-[135px] md:w-[90px] circle-text"
@@ -126,7 +126,7 @@ const Hero = () => {
                   className=" text-black absolute top-[50%] left-[50%] translate-x-[-50%] translate-y-[-50%]"
                 />
               </div>
-            </div> */}
+            </div>
           </div>
         </div>
       </div>
