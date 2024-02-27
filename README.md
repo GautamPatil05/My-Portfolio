@@ -1,3 +1,3 @@
 # Portfolio
 
-LINK: https://my-portfolio-ochre-omega.vercel.app/
+LINK: https://gautam-patil-portfolio.vercel.app/
