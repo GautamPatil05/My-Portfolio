@@ -122,7 +122,7 @@ const Resume = () => {
                   2022 - Expected 2025
                 </span>
                 <p className=" text-[.9rem] text-justify text-gray-500">
-                Currently in 3rd year, maintaining a commendable 7.88 CGPA up to the 5th semester, signifying my dedication to a robust academic foundation.
+                Currently in 3rd year, maintaining a commendable <strong>7.88 CGPA</strong> up to the 5th semester, signifying my dedication to a robust academic foundation.
                 Actively contributing as a core member of the Akatsuki Coding Club, where I play a vital role in competitive programming and collaborative projects, enriching my coding skills and teamwork abilities.
                 </p>
               </div>
@@ -137,7 +137,7 @@ const Resume = () => {
                   2018 - 2020
                 </span>
                 <p className=" text-[.9rem] text-justify text-gray-500">
-                Graduated with an impressive 90.61%, showcasing a strong grasp of Electrical Engineering fundamentals.
+                Graduated with an impressive <strong>90.61%</strong>, showcasing a strong grasp of Electrical Engineering fundamentals.
                 Achieved 2nd rank in the 2nd year and 3rd rank in the 3rd year, demonstrating consistent academic excellence and a competitive edge among peers.
                 </p>
               </div>
@@ -152,7 +152,7 @@ const Resume = () => {
                   February 2017
                 </span>
                 <p className=" text-[.9rem] text-justify text-gray-500">
-                Scored 71.85%, demonstrating strong proficiency in science subjects and a commitment to academic excellence.
+                Scored <strong>71.85%</strong>, demonstrating strong proficiency in science subjects and a commitment to academic excellence.
                 </p>
               </div>
               <div className=" flex flex-col gap-1 border-2 border-yellow-400 shadow-[0px_0px_16px_1px_rgba(0,0,0,0.1)] p-3 rounded-lg">
@@ -166,7 +166,7 @@ const Resume = () => {
                   March 2015
                 </span>
                 <p className=" text-[.9rem] text-justify text-gray-500">
-                Achieved 80.20%, indicating a solid foundation in secondary education with a focus on comprehensive learning.
+                Achieved <strong>80.20%</strong>, indicating a solid foundation in secondary education with a focus on comprehensive learning.
                 </p>
               </div>
             </div>
