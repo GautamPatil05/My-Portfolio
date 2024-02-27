@@ -119,7 +119,7 @@ const Hero = () => {
               <div data-aos="zoom-in" data-aos-duration="1000"  className=" relative cursor-pointer">
                 <img
                   className=" w-[135px] md:w-[90px] circle-text"
-                  src="https://ik.imagekit.io/imgkitt/tr:w-400/Full_Stack_Developer2.png?updatedAt=1683134009107"
+                  src="https://firebasestorage.googleapis.com/v0/b/my-portfolio-images-ed5da.appspot.com/o/Full%20Stack%20Developer2.png?alt=media&token=5c57ba41-3b3c-49e9-a7c8-be4350fd2e8e"
                   alt=""
                 />
                 <FaPlay
